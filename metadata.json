@@ -1,0 +1,7 @@
+{
+  "name": "Khmer Rap Lyric V2",
+  "description": "Professional lyric generator for Khmer Trap and Cambodian Hip-Hop, featuring hard-hitting structure, hype ad-libs, and integrated AI tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
